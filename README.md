@@ -36,9 +36,9 @@ python crypto_arbitrage.ipynb
 
 Attached screenshots below show the data analysis process using 'early' data as an example.
 
-![Plot Overlay For January 2018](images/jan_2018_overlay.PNG)
+![Plot Overlay For January 2018](Starter_Code/Starter_Code/images/jan_2018_overlay.PNG)
 
-![Box Plot for Arbitrage Spread Middle](images/box_plot_middle.PNG)
+![Box Plot for Arbitrage Spread Middle](Starter_Code/Starter_Code/images/box_plot_middle.PNG)
 
 
 ---
