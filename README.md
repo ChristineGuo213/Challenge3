@@ -1,6 +1,5 @@
 # Challenge3
 
-
 # Crypto Arbitrage
 
 This is a python command-line interface application that allows users to import, clean, and analyze data from two bitcoin exchange platform Bitstamp and Coinbase for arbitrage opportunities. The application works by taking in DataFrames from 'bitstamp.csv' and 'coinbase.csv'. It then filters out any null values, visualizes results in a line and box plots, and then calculates the potential profit minus the cost, and makes decisions on buying and selling bitcoins almost simultaneously between the two platforms. This particular CLI app focus on three individual days from the 'early', 'middle' and 'late' part of Timestamp to zoom in on the results for a more close-up data analysis. 
